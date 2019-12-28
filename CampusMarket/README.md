@@ -22,12 +22,13 @@ My team members (3) and I created an Android app that represents a marketplace f
 ## Technologies Used
 
 1. Android Studio (Java)
-2. SpringBoot (Java)
-3. MySQL
-4. Git version control 
-5. CICD
-6. REST API 
-7. WebSocket API
+2. SpringBoot framework (Java)
+3. Mockito testing framework
+4. MySQL
+5. Git version control 
+6. CICD
+7. REST API 
+8. WebSocket API
 
 
 ## Sample Pictures 
