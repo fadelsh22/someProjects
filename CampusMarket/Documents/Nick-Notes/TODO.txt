@@ -1,2 +1,0 @@
-TODO:
-  - Add logging to UserController
