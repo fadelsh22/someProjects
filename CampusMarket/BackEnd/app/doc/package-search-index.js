@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.campusmarket.app.models"},{"l":"org.campusmarket.db.repositories"}]
