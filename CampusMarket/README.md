@@ -33,5 +33,10 @@ My team members (3) and I created an Android app that represents a marketplace f
 ## Sample Pictures 
 
 
+![Picture1](https://user-images.githubusercontent.com/48340795/71542415-e45f3a00-292b-11ea-812e-56494004bc55.png)
+
+![Picture3](https://user-images.githubusercontent.com/48340795/71542431-0c4e9d80-292c-11ea-8452-26eda6efa5da.png)
+
+![Picture2](https://user-images.githubusercontent.com/48340795/71542432-11135180-292c-11ea-82b7-849fca3eec9d.png)
 
 
