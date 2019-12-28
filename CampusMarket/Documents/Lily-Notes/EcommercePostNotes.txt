@@ -1,0 +1,12 @@
+Some info to keep in mind / learn for listing new ecommerce items:
+
+For Cart:
+- need to use ListView widget, which lists only text and no image. Will want to include small picture of item if time but want to get minimal functionality working with listView first
+
+For Listing Items:
+- need to use CardView widget, which includes image and text for each item.
+
+Other Notes:
+- could potentially use RecyclerView, which is just like ListView except it does most of the optimization for you and is more customizable, but it is the most tricky to figure out. 
+- each type of listing view needs an adapter in order to create the views for the items
+- onBindViewHolder() is used to fetch appropriate data and fill the view holder with it.         This is what will be used to hold a spot for and then display the correct item.

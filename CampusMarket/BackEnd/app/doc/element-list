@@ -1,0 +1,4 @@
+org.campusmarket.app
+org.campusmarket.app.controllers
+org.campusmarket.app.models
+org.campusmarket.db.repositories

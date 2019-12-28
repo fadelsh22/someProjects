@@ -1,0 +1,2 @@
+Work on getting data to and from the mobile app (api). Work on connecting a spring boot instance with the 
+mobile application.

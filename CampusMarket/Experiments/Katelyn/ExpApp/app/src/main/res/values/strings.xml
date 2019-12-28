@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExpApp</string>
+    <string name="CM_description">A market, or marketplace, is a location where people regularly gather
+        for the purchase and sale of provisions, livestock, and other goods. Some markets operate daily
+        and are said to be permanent markets while others are held once a week or on less frequent
+        specified days such as festival days and are said to be periodic markets. </string>
+    <string name="Login_welcome">Welcome to Campus Market</string>
+    <string name="Login_get_started">Ready to get started?</string>
+    <string name="picture">Picture</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="Log_in">Log In</string>
+    <string name="Username">Enter your username</string>
+    <string name="Password">Enter your password</string>
+    <string name="Confirm_Password">Confirm your password</string>
+    <string name="Email">Enter your email</string>
+    <string name="welcome">Welcome, </string>
+</resources>

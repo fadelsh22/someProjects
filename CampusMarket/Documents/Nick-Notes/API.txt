@@ -1,0 +1,5 @@
+So SpringBoot helps create micro services and APIS. What if the default gateway (/) is to the API.
+Then we could access the API from the mobile app through the default gateway, then have a separate route
+mapped to the website (lets say /web/) that is the web app. Then the web app and the mobile app would be using
+the API as the backend. This seems like the right way to do it, but I am not sure how to set it up with maven
+and/or SpringBoot

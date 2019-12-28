@@ -1,0 +1,6 @@
+Android Studio Notes/Quick references
+
+- when creating an onClick function, remember to select the [Main Activity] activity from the drop down instead of selecting from the strings xml file
+- hitting option + enter will auto import classes for you
+- if the app is going to send/display something on another screen/in another part, you have an intent which means you then need to create a new activity (file -> new -> activity -> empty activity)
+- the AndroidManifest.xml file is where you can handle navigation needs
