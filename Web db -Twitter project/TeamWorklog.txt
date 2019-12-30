@@ -1,0 +1,40 @@
+Week of Feb. 11, 2019
+•	Team received the project description and the data
+Week of Mar. 9, 2019
+•	Team meeting ( 1 hours) and individual tasks assigned.
+•	Farouk’s task:
+o	Design the ER diagram
+o	Compare ER diagram with Fadel’s ER diagram
+•	Fadel’s task:
+o	Design the ER diagram
+o	Compare ER diagram with Farouk’s ER diagram
+•	Team met for 30 min, sent the ER diagram to the professor for review and then submitted part 1
+Week of Apr. 14, 2019
+•	Team meeting ( 1 hours) and individual tasks assigned.
+•	Farouk’s task:
+o	Design SQL DDL (projectDDL.sql)
+o	Compare SQL DDL with Fadel’s
+o	Create the load data file (projectinsert.sql)
+o	Create few SQL Queries (SQLQueries.sql)
+•	Fadel’s task:
+o	Design SQL DDL (projectDDL.sql)
+o	Compare ER diagram with Farouk’s SQL DDL
+o	Proof read and test the SQL Queries (SQLQueries.sql)
+•	Team met to finalize result, reached an agreement and then submitted (2 hours)
+Week of Apr. 29, 2019
+•	Team meeting (1-2 hours) and individual tasks assigned.
+•	Farouk’s task:
+o	Create the web application website
+?	Index.html
+?	nodes.jsp
+?	results.jsp
+o	Worked on and verified the optimization with Fadel
+
+•	Fadel’s task:
+o	Created the rest of SQL Queries (SQLQueries.sql)
+o	Worked on the optimization and asked TAs/professor 
+o	Tested the optimization, recorded the calculations, and made the table 
+•	Team meeting (1 hours) to finalize and verify everything then turn in the project. 
+
+
+

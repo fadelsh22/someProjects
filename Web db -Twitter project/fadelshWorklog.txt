@@ -1,0 +1,15 @@
+Week of March 9, 2019:
+
+•	Designed the ER diagram (3-4 hours)
+•	Compared with Farouk’s diagram and made a one version out of the two (30 min)
+
+
+Week of April 14, 2019:
+•	Designed the DDL (4 hours)
+•	Compared with Farouk’s DDL and made a one version out of the two (30 min)
+•	Extensively tested the SQL Queries that Farouk had made (2 hours)
+
+Week of April 29, 2019:
+•	Completed the rest of the SQL queries (6 hours)
+•	Collaborated with Farouk to figure out the optimization (4 hours)
+•	Made the calculations and filled out Table 2 (2 hours)

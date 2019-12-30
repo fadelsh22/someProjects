@@ -1,0 +1,23 @@
+Farouk:
+Week of Mar. 9, 2019
+•	Design the ER diagram (5 hours)
+•	Compare ER diagram with Fadel’s ER diagram (10 min)
+Week of Apr. 14, 2019
+•	Design SQL DDL 
+o	(projectDDL.sql) (5 hours)
+•	Compare SQL DDL with Fadel’s (10 min)
+•	Create the load data file 
+o	(projectinsert.sql) (1 hour)
+•	Create few SQL Queries 
+o	(SQLQueries.sql) (6 hours)
+Week of Apr. 29, 2019
+•	Create the web application website 
+o	Index.html (40 min)
+o	HowToUse.html (30 min)
+o	nodes.jsp (1 hours)
+o	results.jsp (5 hours)
+•	Optimization
+o	physicaldesign.sql (8 hours)
+	
+
+

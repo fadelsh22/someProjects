@@ -1,0 +1,44 @@
+<!--
+  - Author(s): Farouk AL Obaidi
+  - Date: 4/16/19
+  - Copyright Notice:
+  - @(#) -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title></title>
+</head>
+<body style = "background-color:powderblue;">
+	<!--See https://www.w3schools.com/html/html_forms.asp
+		"Always use POST if the form data contains sensitive or personal information.
+	     The POST method does not display the submitted form data in the page address field."
+	 -->
+	<!-- <form method="post" action="node.jsp">
+		<select name="login">
+			<id =  value=1>Hello</option>
+			<option value=2>World</option>
+		</select> <input type="submit" value="GO">
+	</form> -->
+	<div style="margin: auto;width: 20%;border: 3px solid grey;padding: 10px;">
+	<h1 style="text-align:center; family-font: "> Log in </h1>
+	<form method="post" action="nodes.jsp">
+				<label for="username">Username </label>
+				<input name="username" type= "text"/>
+				<br>
+				<br>
+				<label for="Password">Password</label>
+				<input name="password" type ="password"/>
+				<br>
+				<br>
+				<input style="float: right;" type="submit" value="GO">
+				<a href="howToUse.html"><button type="button">How to use</button></a>
+				<br>
+				
+	</form>
+	</div>
+
+
+</body>
+</html>
