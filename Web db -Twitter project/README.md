@@ -10,3 +10,5 @@ A web database application (group project of 2) for social scientists and journa
 1. MySQL
 2. JavaServer Pages (JSP)
 3. HTML
+
+I can't share the data used for this project without obtaining written permission.
