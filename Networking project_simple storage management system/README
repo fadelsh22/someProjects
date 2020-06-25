@@ -1,12 +1,19 @@
-Fadel Alshammasi 
-Project 1 COMS 487
+# Centralized Storage Management system
 
-Overview: This project designs and implements a simplified storage management system. The system consists a number of agents and a manager. An agent is a piece of software that runs on a computer and manages the storage device such as redundant array of independent disk (RAID), which is connected to the computer. The manager is another piece of software that runs by a system administrator who manages the storage devices across the enterprise. Each agent periodically reports the system health information to the manager and executes the commands from the manager. 
+## Project Description
 
-Agent code is in C++
-Manager code is in Java
+ This project designs and implements a simplified storage management system. The system consists a number of agents and a manager. 
+ An agent is a piece of software that runs on a computer and manages the storage device such as redundant array of independent disk (RAID), which is connected to the computer.
+ The manager is another piece of software that runs by a system administrator who manages the storage devices across the enterprise.
+ Each agent periodically reports the system health information to the manager and executes the commands from the manager. 
 
-I finished all the required functionalities as specified in the assignment description:
+## Languages
+
+1- Agent code is in C++
+2- Manager code is in Java
+
+
+## Funcationalites
 
 1- Running the manager
 2- Opening several consoles and run an agent on each console
@@ -18,13 +25,14 @@ I finished all the required functionalities as specified in the assignment descr
 8. launching the threads in C++ & Java to do all of the things mentioned above. 
 
 
-To run the code do the following steps(Please run in pyrite or any linux vm): 
+## To run (please run in pyrite or any linux vm): 
 
 1- Please uncomment line 73 if not running in pyrite. Please run it in pyrite/linux though. 
 2- Run the manager first by opening a terminal and doing "javac manager.javaç" then "java manager" 
 3- Open one or serval terminals to run the agent(s) by doing "g++ agent.cpp -o agent -lpthread" then "./agent" 
 4- Please wait to see the packets coming from the same agent every ~1 minute (or feel free to change that in the agent code to what you wish it to be in line 42).
 5- Upon death of an agent, please wait for ~2-3 minutes to see the message indicating the death of the agent and its ID. 
+
 
 Please ask for clarification if needed.
 
