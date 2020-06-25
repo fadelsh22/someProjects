@@ -58,7 +58,7 @@ void initliaze (){
 }
 
 void* sendBeacon(void* arg){
-    beacon b=new BEACON;
+   // beacon b=new BEACON;
     
     int server_socket;
     if ( (server_socket= socket(AF_INET, SOCK_DGRAM, 0)) < 0 ){
